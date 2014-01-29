@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <World>
+  	<pin posX="248" posY="291" lat="38.051957" long="-78.5304752" id="arg_home" name="Atlantic Research Group - Home office" pinColor="0xFF0000" image="images/psn_logo.png"  link="">
+	<![CDATA[<h1>2421 Ivy Road, Suite 200</h1><h1>Charlottesville, Virginia 22903 - United States</h1><h1>(p) +1 434 220 9380 | (f) +1 434 220 9399</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+	</pin>
+	<pin posX="147" posY="306" lat="32.708561" long="-117.155542" id="arg_sd" name="Atlantic Research Group - San Diego office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>321 10th Ave</h1><h1>San Diego, California 92101 - United States</h1><h1>(p) +1 540 213 0150 | (f) +1 540 213 0152 </h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+	</pin>
+	
+	 <pin posX="454" posY="236" lat="51.5112140" long="-0.1198240" id="surrey" name="Surrey office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>48 Station Road, Stoke D&apos;Abernon</h1><h1>Cobham, Surrey KT11 3BN - United Kingdom</h1><h1>(p) +44 (0) 1932 869 933 | (f) +44 (0) 7780 685 580</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+	</pin>
+	
+	<pin posX="495" posY="278" lat="41.8929160" long="12.4825200" id="rome" name="Rome office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>Viale dei Parioli, 12</h1><h1>Rome, Italy 00197</h1><h1>(p) +39 06 807 60 72 | (f) +39 06 807 60 85</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+	</pin>
+	
+	<pin posX="484" posY="265" lat="45.4654540" long="9.1865160" id="milan" name="Milan office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>Viale L. da Vinci, 1 - 20090 Segrate</h1><h1>Milan, Italy</h1><h1>(p) +44 02 269 511 80 | (f) +44 02 269 511 85</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+	</pin>
+	
+	<pin posX="489" posY="221" lat="55.6760970" long="12.5683370" id="copenhagen" name="Copenhagen office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>Symbion Science Park, Fruebjergvej 3</h1><h1>Copenhagen 2100 - Denmark</h1><h1>(p) +45 39 17 9939 | (f) +45 40 63 1163</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+    </pin>
+
+    <pin posX="483" posY="249" lat="48.1351250" long="11.5819810" id="munich" name="Munich office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>Fraunhoferstr. 17, Planegg-Martinsried</h1><h1>AG Munchen 82152 - Germany</h1><h1>(p) +49 89 895 28 60 | (f) +49 89 895 28 66</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+    </pin>
+
+    <pin posX="475" posY="237" lat="52.1326330" long="5.2912660" id="nederlands" name="Netherlands office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>De Stadspoort 32</h1><h1>GZ Eindhoven NL-5611 - The Netherlands</h1><h1>(p) 00 31 040 243 3070 | (f) 00 31 040 243 4505</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+    </pin>
+
+    <pin posX="470" posY="264" lat="45.7640430" long="4.8356590" id="lyon" name="Lyon office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>38 rue du Plat.</h1><h1>Lyon 69002 - France</h1><h1>(p) +33 437 45 17 11 | (f) +33 437 45 17 49</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+    </pin>
+
+    <pin posX="462" posY="253" lat="48.8566140" long="2.3522220" id="paris" name="Paris office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>Paris, France</h1><h1>(p) +33 437 45 17 11 | (f) +33 437 45 17 49</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+    </pin>
+    
+    <pin posX="448" posY="282" lat="40.4167750" long="-3.7037900" id="madrid" name="Madrid office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>C/ Rufino Gonzalez, 14</h1><h1>Madrid 28037 - Spain</h1><h1>(p) +34 91 375 69 34 | (f) +34 91 375 69 31</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+    </pin>
+
+    <pin posX="463" posY="276" lat="41.3850640" long="2.1734030" id="barc" name="Barcelona office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>Barcelona - Spain</h1><h1>(p) +34 91 375 69 34 | (f) +34 91 375 69 31</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+    </pin> 
+
+  </World>
+    
+  <NorthAmerica>
+  	<pin posX="248" posY="291" lat="38.051957" long="-78.5304752" id="arg_home" name="Atlantic Research Group - Home office" pinColor="0xFF0000" image="images/psn_logo.png"  link="">
+	<![CDATA[<h1>2421 Ivy Road, Suite 200</h1><h1>Charlottesville, Virginia 22903 - United States</h1><h1>(p) +1 434 220 9380 | (f) +1 434 220 9399</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+	</pin>
+	<pin posX="147" posY="306" lat="32.708561" long="-117.155542" id="arg_sd" name="Atlantic Research Group - San Diego office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>321 10th Ave</h1><h1>San Diego, California 92101 - United States</h1><h1>(p) +1 540 213 0150 | (f) +1 540 213 0152 </h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+	</pin>
+	
+	
+	
+  </NorthAmerica>
+  
+  <SouthAmerica>
+	
+  </SouthAmerica>
+ 
+  <Europe>
+	
+	 <pin posX="454" posY="236" lat="51.5112140" long="-0.1198240" id="surrey" name="Surrey office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>48 Station Road, Stoke D&apos;Abernon</h1><h1>Cobham, Surrey KT11 3BN - United Kingdom</h1><h1>(p) +44 (0) 1932 869 933 | (f) +44 (0) 7780 685 580</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+	</pin>
+	
+	<pin posX="495" posY="278" lat="41.8929160" long="12.4825200" id="rome" name="Rome office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>Viale dei Parioli, 12</h1><h1>Rome, Italy 00197</h1><h1>(p) +39 06 807 60 72 | (f) +39 06 807 60 85</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+	</pin>
+	
+	<pin posX="484" posY="265" lat="45.4654540" long="9.1865160" id="milan" name="Milan office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>Viale L. da Vinci, 1 - 20090 Segrate</h1><h1>Milan, Italy</h1><h1>(p) +44 02 269 511 80 | (f) +44 02 269 511 85</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+	</pin>
+	
+	<pin posX="489" posY="221" lat="55.6760970" long="12.5683370" id="copenhagen" name="Copenhagen office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>Symbion Science Park, Fruebjergvej 3</h1><h1>Copenhagen 2100 - Denmark</h1><h1>(p) +45 39 17 9939 | (f) +45 40 63 1163</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+    </pin>
+
+    <pin posX="483" posY="249" lat="48.1351250" long="11.5819810" id="munich" name="Munich office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>Fraunhoferstr. 17, Planegg-Martinsried</h1><h1>AG Munchen 82152 - Germany</h1><h1>(p) +49 89 895 28 60 | (f) +49 89 895 28 66</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+    </pin>
+
+    <pin posX="475" posY="237" lat="52.1326330" long="5.2912660" id="nederlands" name="Netherlands office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>De Stadspoort 32</h1><h1>GZ Eindhoven NL-5611 - The Netherlands</h1><h1>(p) 00 31 040 243 3070 | (f) 00 31 040 243 4505</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+    </pin>
+
+    <pin posX="470" posY="264" lat="45.7640430" long="4.8356590" id="lyon" name="Lyon office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>38 rue du Plat.</h1><h1>Lyon 69002 - France</h1><h1>(p) +33 437 45 17 11 | (f) +33 437 45 17 49</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+    </pin>
+
+    <pin posX="462" posY="253" lat="48.8566140" long="2.3522220" id="paris" name="Paris office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>Paris, France</h1><h1>(p) +33 437 45 17 11 | (f) +33 437 45 17 49</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+    </pin>
+    
+    <pin posX="448" posY="282" lat="40.4167750" long="-3.7037900" id="madrid" name="Madrid office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>C/ Rufino Gonzalez, 14</h1><h1>Madrid 28037 - Spain</h1><h1>(p) +34 91 375 69 34 | (f) +34 91 375 69 31</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+    </pin>
+
+    <pin posX="463" posY="276" lat="41.3850640" long="2.1734030" id="barc" name="Barcelona office" pinColor="0xFF0000" image="images/psn_logo.png" link="">
+	<![CDATA[<h1>Barcelona - Spain</h1><h1>(p) +34 91 375 69 34 | (f) +34 91 375 69 31</h1><h1><a href="mailto:info@psnglobal.org">info@psnglobal.org</a></h1>]]>
+    </pin> 
+   		
+  </Europe>
+  <Africa>
+  </Africa>
+  <Asia>
+  </Asia>
+  <Oceania>  	
+  </Oceania>
+</map>
+    

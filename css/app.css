@@ -1,0 +1,114 @@
+body { 
+   color: #333; 
+   font-size: 13px;
+   line-height: 1.6;
+}
+
+p, a, li { 
+   color: #555;
+   line-height: 1.6; 
+}
+
+a,
+a:focus, 
+a:hover, 
+a:active {
+   outline: 0 !important;
+}
+a:hover {
+   color: #72c02c;
+   text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5 {
+   margin-top: 5px; 
+   text-shadow: none; 
+   font-weight: normal !important; 
+   font-family: 'Open Sans', sans-serif; 
+} 
+
+
+
+
+.btn {
+   box-shadow: none;
+}
+
+
+
+
+/*For FF Only*/
+@-moz-document url-prefix() { 
+   .footer-subsribe .btn-u {
+      padding-bottom: 5px;
+   }
+}
+@media (max-width: 768px) { 
+   @-moz-document url-prefix() { 
+      .btn-u {
+         padding-bottom: 5px;
+      }
+   }
+}
+
+
+.clients {
+   box-shadow:none !important;
+   margin-bottom: 0 !important;
+   padding-bottom: 20px    
+}
+.clients li {
+   float: left;
+   overflow: hidden;
+   margin-left: 1px;
+   position: relative;
+   background: #fafafa;
+}
+.clients li:hover {
+   background: #f6f6f6;
+}
+.clients li img.color-img {
+   top: 0;
+   left: 0;
+   display: none;
+   position: absolute;
+}
+.clients li:hover img.color-img { 
+   display: block;
+}
+.clients li img {
+   filter: gray; /* IE6-9 */
+   float: none !important;
+   margin: 0 auto !important;
+}
+.clients li img:hover {
+    filter: none;
+}
+.clients, 
+.flexslider.home {
+    border: 0;
+    overflow: hidden;
+	background-color: #C9C7C7;    
+}
+
+.flexslider { 
+   margin-top: 10px !important;
+   background: none !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
